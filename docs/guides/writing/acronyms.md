@@ -1,3 +1,7 @@
+---
+title: "Acronyms and abbreviations"
+---
+
 <div class="pl-pattern">
 ### Acronyms and abbreviations
 
