@@ -24,4 +24,5 @@ At the writer’s discretion, refer to organizations on second reference with a 
 - The USPTO can be referred to as the United States Patent and Trademark Office or the U.S. Patent and Trademark Office, on first reference. 
 - Do not use the acronym DOC in content written for the public, when referring to the Deparment of Commerce. Use <b>Commerce Department</b>. See the AP Stylebook's "department" entry for more U.S. Cabinet guidelines.
 - Do not abbreviate <b>department</b> in any usage.
+
 </div>
